@@ -1,0 +1,12 @@
+tidy\.pl
+renamet\.pl
+\.git.+
+\.perltidyrc
+blib
+\.old
+\.c
+\.o
+\.bs
+MYMETA
+\bMakefile$
+\.bak
