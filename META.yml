@@ -3,6 +3,7 @@ abstract: 'Perl extension that enables the use of the SFML multimedia library.'
 author:
   - 'Jake Bott <jakeanq@gmail.com>, Georgiy Tugai <georgiy.tugai@gmail.com>'
 build_requires:
+  Alien::SFML: 0.02
   ExtUtils::CBuilder: 0
 configure_requires:
   ExtUtils::MakeMaker: 0
@@ -19,4 +20,4 @@ no_index:
     - inc
 requires:
   Alien::SFML: 0.02
-version: 0.01
+version: 0.0101
