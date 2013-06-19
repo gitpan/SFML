@@ -6,7 +6,7 @@ build_requires:
   Alien::SFML: 0.02
   ExtUtils::CBuilder: 0
 configure_requires:
-  ExtUtils::MakeMaker: 0
+  Alien::SFML: 0.02
 dynamic_config: 1
 generated_by: 'ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.112621'
 license: open_source
@@ -20,4 +20,4 @@ no_index:
     - inc
 requires:
   Alien::SFML: 0.02
-version: 0.0101
+version: 0.0102
